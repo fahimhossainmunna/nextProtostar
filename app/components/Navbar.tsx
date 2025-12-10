@@ -10,7 +10,7 @@ const Navbar = () => {
 
   return (
     <div className="bg-[#F9F9FC]">
-      <div className="max-w-[1420px] mx-auto py-5 flex items-center justify-between px-4">
+      <div className="max-w-[1320px] mx-auto py-5 flex items-center justify-between px-4">
         {/* Logo */}
         <Link href="/">
           <Image src="/images/LOGO.png" alt="logo" width={121} height={26} />

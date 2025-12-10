@@ -8,7 +8,7 @@ import Typewriter from "typewriter-effect";
 const Hero = () => {
   return (
     <div className="bg-[#F9F9FC] pt-[16px] pb-[40px]">
-      <div className="max-w-[1420px] mx-auto flex flex-col-reverse lg:flex-row items-center justify-between px-5 lg:px-0">
+      <div className="max-w-[1320px] mx-auto flex flex-col-reverse lg:flex-row items-center justify-between px-5 lg:px-0">
 
         {/* LEFT TEXT */}
         <div className="text-center lg:text-left mt-10 lg:mt-0">
