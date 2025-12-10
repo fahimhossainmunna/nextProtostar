@@ -19,7 +19,7 @@ const Hero = () => {
           <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl text-[#333333] 
           font-bold leading-tight lg:leading-[78px] font-poppins py-[20px] max-w-[480px] mx-auto lg:mx-0">
             Hello, my name’s Fahim. I’m{" "}
-            <span className="text-[#5e3bee]">
+            <span className="text-[#5e3bee] text-4xl">
               <Typewriter
                 options={{
                   strings: [
