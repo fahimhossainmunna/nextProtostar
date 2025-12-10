@@ -1,8 +1,11 @@
 import React from 'react'
+import ServicePage from './ServicePage'
 
 const Service = () => {
   return (
-    <div>Service page</div>
+    <div>
+      <ServicePage/>
+    </div>
   )
 }
 
